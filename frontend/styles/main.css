@@ -1,0 +1,41 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navbar-brand img {
+    max-height: 42px;
+}
+.nav-link span {
+    font-weight: 700;
+}
+
+.btn-masuk {
+    border-radius: 2px;
+    border-color: #343F56;
+    width: 140px;
+    height: 40px;
+}
+.btn-daftar {
+    color: #343F56;
+    font-weight: 500;
+    border-radius: 0;
+    background-color: #DBD6D6;
+    width: 140px;
+    height: 40px;
+    text-decoration: none;
+}
+.btn-daftar:hover {
+    color: #343F56;
+    font-weight: 500;
+    border-radius: 0;
+    background-color: #c5c5c5;
+    text-decoration: none;
+}
+
+.row {
+    margin-top: 120px;
+}
+.btn-laporkan{
+    color: white;
+    background-color: #343F56;
+}
